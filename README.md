@@ -1,7 +1,5 @@
 
-**MarcelloBonadias/MarcelloBonadias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**HELLO GUYS! ME CHAMO MARCELLO!
 
 - 🖥️ https://www.behance.net/ceftworks
 - 👩‍💻 Cursando segundo módulo: técnico informática na ETEC Adolpho Berezin MONGAGUÁ-SP.

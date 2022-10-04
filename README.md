@@ -1,4 +1,4 @@
-### *HELLO GUYS! ME CHAMO MARCELLO!
+### HELLO GUYS! ME CHAMO MARCELLO!
 
 - 🖥️ https://www.behance.net/ceftworks
 - 👩‍💻 Cursando segundo módulo: técnico informática na ETEC Adolpho Berezin MONGAGUÁ-SP.
